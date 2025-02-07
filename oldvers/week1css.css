@@ -1,0 +1,36 @@
+.rback{
+    outline-width: 5px;
+outline-style: solid;
+    outline-color: #AB3428;
+    background-color: #F5EE9E;
+}
+
+#rback{
+    outline-width: 5px;
+outline-style: solid;
+    outline-color: #AB3428;
+    background-color: #F5EE9E;
+}
+
+
+li::marker {
+    color: #F49E4C;
+  }
+
+    
+a:visited {
+      color: #F49E4C;
+      background-color: transparent;
+      text-decoration: none;
+    }
+a:link {
+      color: #F5EE9E;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+table{
+        
+        font-size: 24;
+        width: 100%
+        }
