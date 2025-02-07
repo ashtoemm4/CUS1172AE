@@ -1,30 +1,52 @@
 .rback{
     outline-width: 5px;
 outline-style: solid;
-    outline-color: #AB3428;
-    background-color: #F5EE9E;
+    outline-color: #85A947;
+    background-color: #EFE3C2;
+}
+
+.menu-block{
+
+    font-size:4vw;
+    padding:4px 4px;
+    max-width: 22%;
+    min-width: 12%;
+    display:inline-block;
+    outline:0;
+    position: relative;
+
+}
+
+.font-change{
+    font-style: italic;
+}
+
+.menu-block:hover{
+    outline-width: 5px;
+    background-color: #EFE3C2;
+    outline-color: #85A947;
 }
 
 #rback{
     outline-width: 5px;
 outline-style: solid;
-    outline-color: #AB3428;
-    background-color: #F5EE9E;
+    outline-color: #85A947;
+    background-color: #EFE3C2;
 }
 
 
 li::marker {
-    color: #F49E4C;
+    color: #3E7B27;
   }
 
     
 a:visited {
-      color: #F49E4C;
+      color: #3E7B27;
       background-color: transparent;
       text-decoration: none;
     }
 a:link {
-      color: #F5EE9E;
+      color: #EFE3C2;
       background-color: transparent;
       text-decoration: none;
     }
